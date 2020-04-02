@@ -1,2 +1,2 @@
-# mycode
-sinifdagitimotomasyonu
+# c programming
+sudoku oyunu
