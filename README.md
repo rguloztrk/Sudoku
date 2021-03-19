@@ -1,2 +1,2 @@
-# c programming
-sudoku oyunu
+# C programming
+exam : sudoku play
