@@ -1,2 +1,2 @@
-# C programming
+# C# programming
 exam : sudoku play
